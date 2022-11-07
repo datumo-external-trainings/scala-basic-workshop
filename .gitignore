@@ -1,0 +1,17 @@
+target
+*~
+.gradle
+/.bsp/
+# Intellij Idea project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# project binaries
+build
+out
+classes
+
+# mac os x
+.DS_Store
